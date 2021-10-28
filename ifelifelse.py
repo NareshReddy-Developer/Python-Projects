@@ -7,6 +7,7 @@ elif brand=="Fo":
     print("Buy one get Free One")
 else:
     print("Other Brands are not recommended")
+    
 #Q. Write a program to find biggest of given 2 numbers from the commad prompt?
 n1=input("Enter First number:")
 n2=input("Enter second number:")
@@ -25,6 +26,7 @@ elif n2>n3:
     print("Biggest number is ",n2)
 else:
     print("Biggest number is ",n3)
+    
 #Q. Write a program to find smallest of given 2 numbers?
 n1=int(input("Enter First Number: "))
 n2=int(input("Enter Second Number: "))
@@ -50,6 +52,7 @@ if (n%2)==0:
     print("The number is even")
 elif (n%2)!=0:
     print("The number is odd")
+    
 #Q. Write a program to check whether the given number is in between 1 and 100?
 n=int(input("Enter the Number: "))
 if n>1 and n<10:
