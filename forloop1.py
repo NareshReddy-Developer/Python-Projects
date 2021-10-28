@@ -6,7 +6,17 @@
 #
 s="NareshReddy"
 for i in s:
-    print(i)
+    print(i)   o/p=n
+                   a
+                   r
+                   e
+                   s
+                   h
+                   R
+                   e
+                   d
+                   d
+                   y
 
 #  To print characters present in string index wise:
 s=input("Enter Some String: ")
